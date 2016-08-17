@@ -5,10 +5,10 @@ ReactDOM with and without an ordered properties list.
 
 ## Setup
 
-Start the server with:
+Run a static file server within the project folder, or start the server with:
 
 ```
-make
+make server
 ```
 
 Then open http://localhost:4000
